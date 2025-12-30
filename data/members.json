@@ -1,0 +1,28 @@
+[
+    {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "member_id": "M001",
+        "borrowed_books": []
+    },
+    {
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "member_id": "M002",
+        "borrowed_books": [
+            {
+                "title": "Clean Code",
+                "author": "Robert C. Martin",
+                "isbn": "9780132350884",
+                "genre": "Textbook",
+                "is_available": false
+            }
+        ]
+    },
+    {
+        "name": "Varun Bothra",
+        "email": "varun@example.com",
+        "member_id": "M003",
+        "borrowed_books": []
+    }
+]

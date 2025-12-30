@@ -1,0 +1,37 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "9780743273565",
+        "genre": "Fiction",
+        "is_available": true
+    },
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "isbn": "9780262033848",
+        "genre": "Textbook",
+        "is_available": true
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "isbn": "9780132350884",
+        "genre": "Textbook",
+        "is_available": false
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "9780451524935",
+        "genre": "Fiction",
+        "is_available": true
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "isbn": "7888483597",
+        "genre": "Non-Fiction",
+        "is_available": true
+    }
+]
