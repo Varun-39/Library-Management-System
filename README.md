@@ -74,3 +74,5 @@ Developed by: **Varun Bothra**
 <!-- Updated: Feb 2026 - minor README improvement -->
 Class: **2X15**
 Dept: **Computer Science(OOPS Project)**
+
+<!-- v2: docs refresh -->
