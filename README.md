@@ -70,5 +70,7 @@ A simple, Object-Oriented Programming (OOP) based Library Management System buil
 ## Developer
 
 Developed by: **Varun Bothra**
+
+<!-- Updated: Feb 2026 - minor README improvement -->
 Class: **2X15**
 Dept: **Computer Science(OOPS Project)**
